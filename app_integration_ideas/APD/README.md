@@ -1,3 +1,3 @@
-# APD  
+# APD - Austin Police Department app 
 
-![](./images/APD_splashpage.png" =200x600)
+!["APD](https://github.com/causm/causm_projects/blob/master/app_integration_ideas/APD/images/APD_splashpage.png)
